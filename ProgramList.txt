@@ -2,7 +2,7 @@
 
 #programs:
 
--Program1: https://test.com/program1
+-Program Test: https://alaristh.github.io/Alaris-Web-Server/Programs/test.sh
 -Progran2: https://test.com/program2
 -Program3: https://test.com/program3
 -Program4: https://test.com/program4
