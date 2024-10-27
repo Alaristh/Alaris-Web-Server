@@ -1,6 +1,6 @@
 #List of program to make request
 
-#Programs:
+#programs:
 
 -Program1: no name
 -Progran2: no name
